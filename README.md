@@ -26,10 +26,10 @@ This assignment contains two tasks:
 There are two directories in this repository, one for each task. These directories are structured as follows:
 
 1. <b><u>Part_1</u></b>
-    * [First Attempt at Improving Accuracy.ipynb](Part_1/First\ Attempt\ at\ Improving\ Accuracy.ipynb): This is a notebook that contains the first attempt at improving the Logistic Regression Accuracy. This notebook explores the effect of changing training/testing splits.
-    * [Second Attempt at Improving Accuracy.ipynb](Part_1/Second\ Attempt\ at\ Improving\ Accuracy.ipynb): This notebook contains the second attempt at improving the Logistic Regression Accuracy. This notebook explores the functionality of the CountVectorizer() function, by removing stop words, using a custom re-distributed input vocabulary and applying stemming to the reviews.
+    * [First Attempt at Improving Accuracy.ipynb](Part_1/First%20Attempt%20at%20Improving%20Accuracy.ipynb): This is a notebook that contains the first attempt at improving the Logistic Regression Accuracy. This notebook explores the effect of changing training/testing splits.
+    * [Second Attempt at Improving Accuracy.ipynb](Part_1/Second%20Attempt%20at%20Improving%20Accuracy.ipynb): This notebook contains the second attempt at improving the Logistic Regression Accuracy. This notebook explores the functionality of the CountVectorizer() function, by removing stop words, using a custom re-distributed input vocabulary and applying stemming to the reviews.
 
 2. <b><u>Part_2</u></b>
     * [data](Part_2/data): This is a directory that contains three CSV files. These files are the original (cleaned) CrowS-Pairs dataset, and the two restructured versions of this file (one for training, one for testing).
-    * [Adjusting CrowS-Pairs Dataset.ipynb](Part_2/Adjusting\ CrowS-Pairs\ Dataset.ipynb): This is a notebook that goes through the process of re-structuring the data in order to make it usable for the BERT model.
+    * [Adjusting CrowS-Pairs Dataset.ipynb](Part_2/Adjusting%20CrowS-Pairs%20Dataset.ipynb): This is a notebook that goes through the process of re-structuring the data in order to make it usable for the BERT model.
     * [Fine_Tuning_BERT_on_Stereotyped_data.ipynb](Part_2/Fine_Tuning_BERT_on_Stereotyped_data.ipynb): This is a notebook that trains and evaluates BERT when it has been fine-tuned as a multiclass classifier model for identifying stereotype, antistereotype and non-stereotype sentences.
